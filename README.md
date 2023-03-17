@@ -16,8 +16,6 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizfsilvas)](https://github.com/luizfsilvas) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfsilvas/)]( https://www.linkedin.com/in/luizfsilvas/) 
-
 [![luizfsilvas GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfsilvas)](https://github.com/luizfsilvas/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfsilvas&layout=compact)](https://github.com/luizfsilvas/github-readme-stats)
